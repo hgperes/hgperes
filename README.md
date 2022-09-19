@@ -74,6 +74,9 @@
 <a href="https://linkedin.com/in/helder-guter" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
+<a href="https://discord.gg/Hélder Gúter#6710" target="_blank">
+<img src=https://learn.adafruit.com/assets/77157?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
 </div>  
   
 
