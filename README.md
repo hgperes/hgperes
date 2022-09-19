@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Hélder Gúter, a full-time and passionate frontend developer from Brasil 👨‍💻 currently living in portugal 🚀</div>  
+### <div align="center">Hello, i'm Hélder Gúter, a full-time and passionate frontend developer from Brasil 👨‍💻 currently living in portugal 🚀</div>  
   
 
 - 🔭 I’m currently working on my own projects  
