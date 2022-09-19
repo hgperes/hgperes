@@ -82,7 +82,7 @@
 
 ## Github Stats  
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=hgperes&show_icons=true&count_private=true&hide_border=true" align="center" align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hgperes&hide_border=true&layout=compact" align="right" /></div>
-<div align="center" <img src="https://github-readme-streak-stats.herokuapp.com/?user=hgperes&" alt="hgperes" align="center" /></div>
+<div align="center" <img src="https://github-readme-streak-stats.herokuapp.com/?user=hgperes&show_icons=true&count_private=true&hide_border=true" alt="hgperes" align="center" /></div>
 
 <br/>  
 
